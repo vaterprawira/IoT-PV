@@ -27,13 +27,16 @@ Data are read via sensors (ACS758, PZEM-004T) and processed by the ESP32, which 
 Node-RED subscribes to these MQTT topics and visualizes the data in a dashboard interface accessible online.
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1VqjarNvZch002U2wescug45zzLD5bFT3/view?usp=drive_link" width="500" />
+  <img src="https://drive.google.com/uc?export=view&id=1VqjarNvZch002U2wescug45zzLD5bFT3" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1msRfNeQB5b53_JbyCdMelLMCDWO5ZoVc/view?usp=sharing" width="500" />
+  <img src="https://drive.google.com/uc?export=view&id=1msRfNeQB5b53_JbyCdMelLMCDWO5ZoVc" width="500" />
 </p>
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1jTwvTeYaSXS_f2Wwq0IKWJ6fsL13UmzC" width="500" />
+</p>
 
 🧪 Testing and Results
 
@@ -43,6 +46,14 @@ Node-RED subscribes to these MQTT topics and visualizes the data in a dashboard 
 4. Current sensors (ACS758) were found faulty and excluded after overheating and inaccurate readings.
 
 Despite this limitation, the overall system achieved stable operation and successful data transmission to Node-RED.
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1xJBCaafB7uIVCrWh3P_nj67xVLXk7nxV" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1IpG-jk9CAgEB0CG9J2misnU21oSR2Ylf" width="500" />
+</p>
 
 🌍 Impact and Sustainability
 
